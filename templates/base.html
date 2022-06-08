@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>{{page.title | config.title}}</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        {# Need to add basic nav and search #}
+      </nav>
+      <h2>{{page.title}}</h2>
+    </header>
+    <main>
+      {{page.content}}
+    </main>
+    <footer>
+      <p>
+        Kindly provided by the Class of 2023. <a href="/contributors">See major contributors.</a>
+      </p>
+      <p>
+        Last updated: {{page.updated | "never"}}.
+    </footer>
+  </body>
+  <noscript><img src="https://shy.maatt.ch/ingress/e140128c-5dc4-4312-b264-09958bd26fe5/pixel.gif"></noscript>
+  <script defer src="https://shy.maatt.ch/ingress/e140128c-5dc4-4312-b264-09958bd26fe5/script.js"></script>
+</html>

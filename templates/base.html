@@ -2,25 +2,41 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>{{page.title | config.title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if page.title %}
+      {% set title=page.title %}
+    {% elif section.title %}
+      {% set title=section.title %}
+    {% else %}
+      {% set title=site.title %}
+    {% endif %}
+    <title>{{title}}</title>
     <link rel="stylesheet" href="/style.css" />
   </head>
-  <body>
+  <body id="top">
     <header>
+      <h1>⚠️ Pas fini.</h1>
       <nav>
-        {# Need to add basic nav and search #}
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/search">Search</a></li>
+          <li><a href="/categories">Categories</a></li>
+          <li><a href="/resources">Resources</a></li>
+        </ul>
       </nav>
-      <h2>{{page.title}}</h2>
+      <h2>{{title}}</h2>
     </header>
     <main>
-      {{page.content}}
+      {%block content%}{%endblock%}
     </main>
     <footer>
       <p>
-        Kindly provided by the Class of 2023. <a href="/contributors">See major contributors.</a>
+        Kindly&nbsp;provided&nbsp;by&nbsp;the Class&nbsp;of&nbsp;2023.<br/>
+        <a href="/contributors">View contributors.</a>
       </p>
       <p>
-        Last updated: {{page.updated | "never"}}.
+        Last&nbsp;updated:&nbsp;{% if page.updated %}{{page.updated}}{%else%}never{%endif%}.<br/>
+        <a href="#top">Top.</a>
     </footer>
   </body>
   <noscript><img src="https://shy.maatt.ch/ingress/e140128c-5dc4-4312-b264-09958bd26fe5/pixel.gif"></noscript>

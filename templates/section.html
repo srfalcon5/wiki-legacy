@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% set section = get_section(path=path) %}
+
+{% block content %}
+<section>
+    {% set pages = section.pages %}
+
+    <ul>
+        {% for post in pages %}
+        <li><a href="{{ post.permalink | safe }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</section>
+{% endblock content %}

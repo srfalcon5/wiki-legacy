@@ -1,6 +1,5 @@
 +++
 title= "Light board"
-layout= "page.html"
 +++
 
 ## To light the stage

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% set index = get_section(path="_index.md") %}
+<ul>
+	{% for s in index.subsections %}
+    	{% set subsection = get_section(path=s) %}
+    	<li><a href="{{ subsection.permalink }}">{{ subsection.title }}</a></li>
+	{% endfor %}
+</ul>
+{% endblock content %}

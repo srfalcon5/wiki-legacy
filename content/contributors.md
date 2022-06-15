@@ -16,4 +16,4 @@ Once members of 3,4 move to university, we're unable to maintain this wiki to th
 
 ## Full list of contributors
 - [Calderon, Daniel](https://daan.ws) (2023)
-- [Ronchetto, Matthew](https://maatt.fr) (2023; former head editor)
+- [Ronchetto, Matthew](https://maatt.fr) (2023; head editor)

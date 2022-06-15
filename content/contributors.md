@@ -1,6 +1,7 @@
 +++
 title= "Contributors"
 template= "page.html"
+updated="2022-06-15"
 +++
 
 This wiki would not be possible if it weren't for the numerous contributions made by the students.

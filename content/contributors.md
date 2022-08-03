@@ -17,4 +17,4 @@ We do not offer this repository publicly. You can request access by either becom
 
 ## Full list of contributors
 - [Calderon, Daniel](https://daniel.cafe) (2023)
-- [Ronchetto, Matthew](https://maatt.fr) (2023, reachable; former head editor)
+- [Ronchetto, Matthew](https://maatt.fr) (2023, [reachable](https://maatt.fr/contact/); former head editor)

@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html id="top">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,9 +13,10 @@
     <title>{{title}}</title>
     <link rel="stylesheet" href="/style.css" />
   </head>
-  <body id="top">
+  <body>
     <header>
-      <h1>⚠️ Not done.</h1>
+      <p><strong>⚠️ Not done.</strong></p>
+      <h1>Broadcast 3,4 Wiki</h1>
       <nav>
         <ul>
           <li><a href="/">Home</a></li>
@@ -24,21 +25,19 @@
           <li><a href="/resources">Resources</a></li>
         </ul>
       </nav>
-      <h2>{{title}}</h2>
     </header>
     <main>
       {%block content%}{%endblock%}
     </main>
     <footer>
       <p>
-        Kindly&nbsp;provided&nbsp;by&nbsp;the Class&nbsp;of&nbsp;2023.<br/>
-        <a href="/contributors">View contributors.</a>
+        Kindly&nbsp;provided&nbsp;by&nbsp;the Class&nbsp;of&nbsp;2023.
+        <a href="/contributors">View contributors.</a><br/><br/>
+        <a href="#top">Top of page.</a>
       </p>
-      <p>
-        Last&nbsp;updated:&nbsp;{% if page.updated %}{{page.updated}}{%else%}never{%endif%}.<br/>
-        <a href="#top">Top.</a>
     </footer>
   </body>
+  {% block scripts %}{% endblock scripts %}
   <noscript><img src="https://shy.maatt.ch/ingress/e140128c-5dc4-4312-b264-09958bd26fe5/pixel.gif"></noscript>
   <script defer src="https://shy.maatt.ch/ingress/e140128c-5dc4-4312-b264-09958bd26fe5/script.js"></script>
 </html>

@@ -18,6 +18,11 @@ aliases= ["/faq", "/help"]
   - Test the cable with another output to ensure the cable is dead
   - Cry. This has been an issue for awhile due to the cable being dodgy
 
+**Problem:** no camera 3 in Tricaster<br/>
+**Solutions:**
+  - There is no Camera 3. Alternatively:
+  - Panic and freakout.
+
 ---
 
 If none of this worked, contact the:

@@ -1,0 +1,10 @@
+f5.maatt.fr {
+    root * /srv/apps/caddy/sites/f5-wiki/public
+    encode zstd gzip
+    file_server {
+    	precompressed br
+    }
+    tls https@doamatto.xyz {
+            resolvers 1.1.1.1 1.0.0.1
+    }
+}

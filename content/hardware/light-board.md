@@ -5,12 +5,12 @@ title= "Light board"
 ## To light the stage
   - Channel 1: set to 8
   - Channel 2: set to 8
-  - Channel 3: set to ~3.5
-    - For people with darker skin, turn down from ~3.5 until glare on skin is minimal or gone while preserving the white of the columns behind
+  - Channel 3: set to \~3.5
+    - For people with darker skin, turn down from \~3.5 until skin is, or reasonably close to, the natural colour, while preserving the white of the columns behind.
   
-  **If needed,** also set:
-    - Channel 4 to ~4.5
-    - Channel 5 to 3
+**If needed,** also set:
+  - Channel 4 to \~4.5
+  - Channel 5 to 3
 
 ## To light the green screen
   - Channel 7 to 10
@@ -20,8 +20,8 @@ title= "Light board"
 # To light the couch
   - Channel 10 to 9
   - Channel 11 to 9
-  - Channel 12 to ~4.5
-  
+  - Channel 12 to \~4.5
+
 ---
 
 ## Channels

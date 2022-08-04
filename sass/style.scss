@@ -11,20 +11,18 @@ body {
 		background: #191919;
 		color: #f3f3f3;
 		a {	color: #3FB9F1; }
+		footer { border-color: #fff; }
 	}
 	@media (prefers-reduced-motion) { * { animation: none !important; } }
 }
-
-header,
-main,
-footer {
-	margin: 0 auto;
-	width: 100%;
+body {
 	max-width: 80%;
 	@media(min-width: 600px) { max-width: 60%; }
 	@media(min-width: 1000px) { max-width: 40%; }
+	margin: 0 auto;
 }
 
+header > h1{ margin: 0; }
 nav ul {
 	display: flex;
 	list-style: none;
@@ -38,15 +36,18 @@ nav ul {
 		margin-top: .9rem;
 		margin-bottom: .9rem;
 		padding: .5rem;
+		&:first-child { padding-left: 0; }
+		&:last-child { padding-right: 0; }
 	}
-	&:first-child { padding-left: 0; }
-	&:last-child { padding-right: 0; }
+}
+
+#search-modal {
+	margin-bottom: 2rem;
 }
 
 footer {
 	display: flex;
-	margin: 0 auto 2rem auto;
+	border-top: 2px solid #000;
+	padding-bottom: 2rem;
 	justify-content: space-between;
-	p:first-child { text-align: left; }
-	p:last-child { text-align: right; }
 }

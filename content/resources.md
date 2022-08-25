@@ -11,3 +11,7 @@ template= "page.html"
   - [Tricaster to Web (legacy)](https://cdn.doamatto.xyz/f5/hb/legacy-tri-to-web.json)
 - Ticketing/seating software for events: unavailable
   - 🏗️ A solution is currently being created by the Class of 2023 for classes to come. It will be available at [https://srhs.tickets.maatt.fr](https://srhs.tickets.maatt.fr)
+- Mac reset scripts: use root when running.
+  - [For most Macs](https://cdn.doamatto.xyz/f5/macs/reset.sh)
+  - [For Macs meant for production crew](https://cdn.doamatto.xyz/f5/macs/prodreset.sh)
+  

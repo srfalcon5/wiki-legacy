@@ -14,14 +14,17 @@ aliases= ["/faq", "/help"]
 
 **Problem:** no display output on the studio's TV<br/>
 **Solutions:**
-  - Ensure the Tricaster's HDMI cable is plugged in and secure (is either labelled "Studio" or is a two-tone grey and black braided cable)
-  - Test the cable with another output to ensure the cable is dead
-  - Cry. This has been an issue for awhile due to the cable being dodgy
+  - Make sure the TV is on.
+  - Cry. This was fixed 2022-08-25.
 
 **Problem:** no camera 3 in Tricaster<br/>
 **Solutions:**
   - There is no Camera 3. Alternatively:
   - Panic and freakout.
+
+**Problem:** can't record to SD card<br/>
+**Solutions:**
+  - Make sure SD card is not locked (see switch on left side of card)
 
 ---
 

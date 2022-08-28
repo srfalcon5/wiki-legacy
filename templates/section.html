@@ -7,7 +7,7 @@
     {% set pages = section.pages %}
 
     <ul>
-        {% for post in pages %}
+        {% for post in pages | sort(attribute="title") %}
         <li><a href="{{ post.permalink | safe }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>

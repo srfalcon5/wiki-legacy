@@ -17,5 +17,16 @@ Once members of 3,4 move to university, we're unable to maintain this wiki to th
 We do not offer this repository publicly. You can request access by either becoming a contributor or reaching out directly to Matt or Daniel above with the same proof of membership in the program. If you have access to viewing, you can quickly reach the repository [here.](https://github.com/doamatto/falcon5-wiki.git)
 
 ## Full list of contributors
+- Anonymous (20XX)
+  - Either someone asked to have their name omitted, or a note was made that didn't have someone's name on it.
 - [Calderon, Daniel](https://daniel.cafe) (2023)
+- Chell, Evan (2022; head editor)
+- Diaz, Benicio (2022)
+- Fumzon (?), Matthew
+- Harbor, Trent (2022)
+- Nguyen, Josh (2022)
+- Sauders, Aidan
+- Stelter, Kyle (2022)
+- Rodriguez
 - [Ronchetto, Matthew](https://maatt.fr) (2023, [reachable](https://maatt.fr/contact/); head editor)
+- Quach, Katherine

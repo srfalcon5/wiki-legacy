@@ -41,7 +41,7 @@ Before going live, ensure that the "AUDIO 1" channel is set to around +12dB in T
 
 (is there a "Master" channel that can be set instead?)
 
-> #### Why +12dB?
-> As part of Tricaster's audio headroom "feature", the software forces the output level down by 20dB. Setting output to +12dB allows us to restore levels back to a sane setting while still leaving -8dB for headroom (good practice for live broadcasts).
->
-> If you keep output at -0dB, Tricaster will produce extremely quiet output. You'll have to either do the entire session at -0dB and boost the sound manually in post-production, or boost the levels live through other means.
+#### Why +12dB?
+As part of Tricaster's audio headroom "feature", the software forces the output level down by 20dB. Setting output to +12dB allows us to restore levels back to a sane setting while still leaving -8dB for headroom (good practice for live broadcasts).
+
+If you keep output at -0dB, Tricaster will produce extremely quiet output. You'll have to either do the entire session at -0dB and boost the sound manually in post-production, or boost the levels live through other means.

@@ -36,6 +36,9 @@ Less to keep track of here:
 3. Run the TRS cable from the `Main out (left)` on the mixer to the `In` (left side) on the DI.
 4. Plug in your microphone via the XLR you brought to the `MIC 1` XLR port on the mixer.
 
+## Diagram
+![wiring diagram for audio](wiring.svg)
+
 # Video
 
 1. Plug in and turn on laptop.

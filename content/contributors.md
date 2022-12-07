@@ -14,7 +14,7 @@ Special thanks to:
 Once members of 3,4 move to university, we're unable to maintain this wiki to the best of our ability. Changes are seldomn, but do occur. Members of Broadcast Journalism 3,4 can gain permissions to be educated on how to contribute to this documentation by reaching out directly to [Matt](https://maatt.fr) or [Daniel](https://daniel.cafe) with a copy of your transcript showing the course, the school, et al. Broadcast Journalism 1,2 students **can** become contributors **however** this is a seldomn exception we make on a case-by-case situation and with a good recommendation from Mr Wilson.
 
 ## Viewing the source code
-We do not offer this repository publicly. You can request access by either becoming a contributor or reaching out directly to Matt or Daniel above with the same proof of membership in the program. If you have access to viewing, you can quickly reach the repository [here.](https://github.com/doamatto/falcon5-wiki.git)
+We do not offer this repository publicly. You can request access by either becoming a contributor or reaching out directly to Matt or Daniel above with the same proof of membership in the program. If you have access to viewing, you can quickly reach the repository [here.](https://github.com/srfalcon5/wiki.git)
 
 ## Full list of contributors
 - Anonymous (20XX)

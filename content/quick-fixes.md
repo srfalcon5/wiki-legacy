@@ -17,11 +17,6 @@ aliases= ["/faq", "/help"]
   - Make sure the TV is on.
   - Cry. This was fixed 2022-08-25.
 
-**Problem:** no camera 3 in Tricaster<br/>
-**Solutions:**
-  - There is no Camera 3. Alternatively:
-  - Panic and freakout.
-
 **Problem:** can't record to SD card<br/>
 **Solutions:**
   - Make sure SD card is not locked (see switch on left side of card)
@@ -29,7 +24,7 @@ aliases= ["/faq", "/help"]
 ---
 
 If none of this worked, contact the:
-  - current head editor
-  - Mr Wilson
-  - any other competent persons at a moment's notice
+  - current head editor,
+  - Mr Wilson,
+  - any other competent persons at a moment's notice; or:
   - [contributors that provide a means of contact](/contributors)

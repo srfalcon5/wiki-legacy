@@ -8,7 +8,7 @@ aliases= ["/faq", "/help"]
 **Problem:** no camera output in Tricaster<br/>
 **Solutions:**
   - Ensure the Tricaster is set to 1080i (check top left looking for this)
-  - Manually set Cameras 1, 2, and 4 to 1080i
+  - Manually set Cameras 1, 2, and 3 to 1080i
     - Hover over the camera on the Tricaster and select the setting cog
     - Change the expected input in the respective dropdown to `1080i`
 

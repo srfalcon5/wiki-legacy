@@ -17,6 +17,16 @@ body {
 	padding: 1em;
 }
 
+p > img {
+	width: 100%;
+}
+
+blockquote {
+	padding: 0.5rem;
+	border-radius: 1rem;
+	background: blue; // make background tinted, border be blue
+}
+
 header {
 	h1 {
 		font-size: 1em;

@@ -22,9 +22,12 @@ p > img {
 }
 
 blockquote {
-	padding: 0.5rem;
-	border-radius: 1rem;
-	background: blue; // make background tinted, border be blue
+	border: solid 0.1rem #F90;
+	border-radius: 0.5rem;
+	margin: unset;
+	padding: 0 1rem;
+	background: #F901;
+	display: block;
 }
 
 header {

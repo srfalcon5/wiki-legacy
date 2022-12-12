@@ -33,6 +33,7 @@ Running a home basketball game is fairly simple—but there are still a few thin
 3. Start GamePresenter on the laptop—ensure that you have the proper graphics selected.
 
 The adverts/ player intro videos should display at the top-left corner of your screen.
-	- **⚠️ Heads up!** Don't put a window or mouse cursor into this region—the audience can see it.
+> ### ⚠️ Heads up!
+> Don't put a window or mouse cursor into this region—the audience can see it.
 
 [TODO: Add basic information on using GamePresenter.](https://github.com/srfalcon5/wiki/issues/1)

@@ -29,9 +29,9 @@ Running a home basketball game is fairly simple—but there are still a few thin
 
 > ### ⚠️ Not working?
 > Ensure the following things are set:
-> 1. The power [switch](amp.jpg) for the amps are turned on in the storage room
-> 2. The [breaker](breaker.jpg) for the sound system is flipped on (should be labeled in the breaker box)
-> 3. The [volume knobs](volume.jpg) for the PA are set to the penciled-in marks (you might need a custodian to unlock this for you)
+> 1. The power [switch](/prod/basketball/amp.jpg) for the amps are turned on in the storage room
+> 2. The [breaker](/prod/basketball/breaker.jpg) for the sound system is flipped on (should be labeled in the breaker box)
+> 3. The [volume knobs](/prod/basketball/volume.jpg) for the PA are set to the penciled-in marks (you might need a custodian to unlock this for you)
 
 ## Setting up video
 

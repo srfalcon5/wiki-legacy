@@ -9,7 +9,7 @@ The Class of 2023 wrote an in-house script for OBS that provides the countdown. 
 **Note:** every letter you type trying to insert the name of the countdown text will throw an error, causing a pop-up. This isn't by design, but it's a necessary evil to make sure the OBS doesn't crash out on you randomly. To mitigate this, type the name somewhere else and then paste it into the text field- if the text exists, no error will be prompted.
 
 ## Capturing the live stream
-For awhile, we've had to use a second window of Safari to screen capture. Although this is still an option, we have since unblocked the Monterey Bay Aquarium YouTube channel for sandi.net accounts and SandiNET, which should allow anyone on that network to view its contents, including us to broadcast during a stream. This has not yet been confirmed and requires further documentation.
+For awhile, we've had to use a second window of Safari to screen capture. Although this is still an option, we have since unblocked the Monterey Bay Aquarium YouTube channel for sandi.net accounts and SandiNET, which should allow anyone on that network to view its contents, including us to broadcast during a stream. This will need to be repeated for any other YouTube-based live streams.
 
 ### Using Monterey Bay Aquarium and other YouTube live streams
 YouTube streams are blissfully easy to embed since most of the work is already done for you. Visit the URL for whatever live stream you are using (eg. `https://www.youtube.com/watch?v=IOJO0zj55jo`) and copy everything after `v=` leading up to any `&` symbols (eg. `IOJO0zj55jo`) into the portion in the URL below that says `VIDEO_ID`. Use that URL when configuring the `Browser` element in OBS.

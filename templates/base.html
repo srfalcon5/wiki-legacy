@@ -8,14 +8,14 @@
     {% elif section.title %}
       {% set title=section.title %}
     {% else %}
-      {% set title=site.title %}
+      {% set title=config.title %}
     {% endif %}
     <title>{{title}}</title>
     <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
     <header>
-      <h1>Broadcast 3,4 Wiki</h1>
+      <h1>{{ config.title }}</h1>
       <nav>
         <ul>
           <li><a href="/">Home</a></li>

@@ -9,13 +9,13 @@ aliases= ["/faq", "/help"]
 **Solutions:**
   - Ensure the Tricaster is set to 1080i (check top left looking for this)
   - Manually set Cameras 1, 2, and 3 to 1080i
-    - Hover over the camera on the Tricaster and select the setting cog
-    - Change the expected input in the respective dropdown to `1080i`
+    - Check cable connections
+    - Hover over the camera on the Tricaster and select the setting cog and change the expected input in the respective dropdown to `1080i`
 
 **Problem:** no display output on the studio's TV<br/>
 **Solutions:**
   - Make sure the TV is on.
-  - Cry. This was fixed 2022-08-25.
+  - Cry. This was (supposedly) fixed on 2022-08-25.
 
 **Problem:** can't record to SD card<br/>
 **Solutions:**

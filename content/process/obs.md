@@ -16,7 +16,7 @@ You can shuffle through these streams [using the in-house script `obs-rotation`]
 ### Using Monterey Bay Aquarium and other YouTube live streams
 YouTube streams are blissfully easy to embed since most of the work is already done for you. Visit the URL for whatever live stream you are using (eg. `https://www.youtube.com/watch?v=IOJO0zj55jo`) and copy everything after `v=` leading up to any `&` symbols (eg. `IOJO0zj55jo`) into the portion in the URL below that says `VIDEO_ID`. Use that URL when configuring the `Browser` element in OBS.
 
-URL template: `COMING SOON`
+URL template: `https://youtube.com/embed/VIDEO_ID?rel=0&version=3&autoplay=1&controls=0&showinfo=0&loop=1`
 
 ### Using Birch Aquarium streams
 These streams use the [HDonTap](https://hdontap.com) camera service. Unfortunately, [settings for modifiying these embeds are not accessible to those who don't maintain the cameras](https://hdontap.com/index.php/knowledge_base/detail/customizing-the-webcam-stream-embed). Below is a list of the stream IDs offered by the Birch Aquarium:

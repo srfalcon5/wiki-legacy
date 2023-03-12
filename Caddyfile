@@ -1,5 +1,5 @@
 f5.maatt.fr {
-    root * /srv/apps/caddy/sites/f5-wiki/public
+    root * /srv/f5.maatt.fr/public
     encode zstd gzip
     file_server {
     	precompressed br
